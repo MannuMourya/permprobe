@@ -1,0 +1,2 @@
+[console_scripts]
+permprobe = permprobe.cli:main
